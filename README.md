@@ -7,5 +7,5 @@
 * Settings file email jonatish uchun sozlandi
 
 Login:
-user: t
-password: 1
+\n user: t
+\n password: 1
